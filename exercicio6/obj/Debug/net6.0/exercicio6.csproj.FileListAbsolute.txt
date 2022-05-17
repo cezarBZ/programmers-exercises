@@ -1,0 +1,15 @@
+C:\dev\local\exercicios\exercicios1\exercicio6\bin\Debug\net6.0\exercicio6.exe
+C:\dev\local\exercicios\exercicios1\exercicio6\bin\Debug\net6.0\exercicio6.deps.json
+C:\dev\local\exercicios\exercicios1\exercicio6\bin\Debug\net6.0\exercicio6.runtimeconfig.json
+C:\dev\local\exercicios\exercicios1\exercicio6\bin\Debug\net6.0\exercicio6.dll
+C:\dev\local\exercicios\exercicios1\exercicio6\bin\Debug\net6.0\exercicio6.pdb
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\exercicio6.csproj.AssemblyReference.cache
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\exercicio6.AssemblyInfoInputs.cache
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\exercicio6.AssemblyInfo.cs
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\exercicio6.csproj.CoreCompileInputs.cache
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\exercicio6.dll
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\refint\exercicio6.dll
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\exercicio6.pdb
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\exercicio6.genruntimeconfig.cache
+C:\dev\local\exercicios\exercicios1\exercicio6\obj\Debug\net6.0\ref\exercicio6.dll
